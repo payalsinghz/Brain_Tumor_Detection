@@ -1,0 +1,9 @@
+# Ignore the dataset and virtual environment
+Dataset/
+venv/
+__pycache__/
+*.pyc
+
+# Optional: Ignore OS-specific files
+.DS_Store
+Thumbs.db
